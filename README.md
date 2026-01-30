@@ -1,10 +1,15 @@
-## WebDev Portfolio - TailwindCSS Fundamental Project 8
+# Portfolio Landing Page 10 - React, Vite, Tailwind Frontend Project
 
-<img width="1055" alt="Screenshot 2025-02-25 at 16 09 38" src="https://github.com/user-attachments/assets/285d8ead-1fd4-4db6-a062-18146946ced3" /><img width="1215" alt="Screenshot 2025-02-25 at 16 09 54" src="https://github.com/user-attachments/assets/dd7e6661-994a-441c-bdba-456ce42a52d6" /><img width="1111" alt="Screenshot 2025-02-25 at 16 10 15" src="https://github.com/user-attachments/assets/ab5a7be3-200a-4ec3-b428-f647463c0a38" /><img width="1232" alt="Screenshot 2025-02-25 at 16 10 47" src="https://github.com/user-attachments/assets/3461eef8-d4a3-4214-af37-b61323a09c69" />
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-18.3.1-blue)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-6.2.0-green)](https://vite.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.1.17-blueviolet)](https://tailwindcss.com/)
 
 This is a portfolio project built using React and TailwindCSS. The project showcases various sections including a hero section, skills, about, and projects. It is designed to be responsive and visually appealing.
 
-**Online Live:** https://webdev-portfolio-arnob.netlify.app/
+**Online Live:** <https://portfolio-ui-10.vercel.app/>
+
+<img width="1055" alt="Screenshot 2025-02-25 at 16 09 38" src="https://github.com/user-attachments/assets/285d8ead-1fd4-4db6-a062-18146946ced3" /><img width="1215" alt="Screenshot 2025-02-25 at 16 09 54" src="https://github.com/user-attachments/assets/dd7e6661-994a-441c-bdba-456ce42a52d6" /><img width="1111" alt="Screenshot 2025-02-25 at 16 10 15" src="https://github.com/user-attachments/assets/ab5a7be3-200a-4ec3-b428-f647463c0a38" /><img width="1232" alt="Screenshot 2025-02-25 at 16 10 47" src="https://github.com/user-attachments/assets/3461eef8-d4a3-4214-af37-b61323a09c69" />
 
 ## Setup Vite and Tailwind
 
