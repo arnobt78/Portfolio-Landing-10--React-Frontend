@@ -170,7 +170,7 @@ import { links } from "../data";
 Main introduction section with developer’s name, title, tagline, and social links.
 
 ```jsx
-<h1 className="text-7xl font-bold tracking-wider">I'm Arnob</h1>
+<h1 className="text-7xl font-bold tracking-wider">I'm John Doe</h1>
 <p className="mt-4 text-3xl text-slate-700 capitalize tracking-wide">Front-End Developer</p>
 ```
 
@@ -330,12 +330,5 @@ export default Navbar;
 ## Conclusion
 
 This project is an excellent starting point for anyone looking to build their own personal portfolio or learn modern front-end best practices. By combining React’s power and TailwindCSS’s flexibility, you can quickly develop professional and visually appealing web applications. Feel free to fork, experiment, and use this as your own developer portfolio!
-
----
-
-## More
-
-- [View complete source on GitHub](https://github.com/arnobt78/WebDev-Portfolio--TailwindCSS-Fundamental-Project-8)
-- [See live demo](https://webdev-portfolio-arnob.netlify.app/)
 
 ---
